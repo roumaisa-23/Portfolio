@@ -1,6 +1,6 @@
 // Personal details, taken from your CV. Empty strings = not added yet; the matching button is hidden.
 export const site = {
-  name: 'Roumaisa Abbasi',
+  name: 'Roumaisa Rustam Abbasi',
   fullName: 'Roumaisa Rustam Abbasi',
   role: 'Frontend Developer',
   location: 'Islamabad, Pakistan',

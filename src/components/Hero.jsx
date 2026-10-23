@@ -3,7 +3,7 @@ import { ArrowDown, Download, Github, Linkedin, Mail } from 'lucide-react'
 import { site } from '../data/site'
 
 const code = [
-  ['name', '"Roumaisa Abbasi"'],
+  ['name', '"Roumaisa Rustam Abbasi"'],
   ['role', '"Frontend Developer"'],
   ['stack', '["React", "Tailwind CSS", "JavaScript"]'],
   ['location', '"Islamabad, Pakistan"'],
@@ -67,7 +67,7 @@ export default function Hero() {
 
       <motion.div
         role="img"
-        aria-label="Code snippet describing Roumaisa Abbasi: Frontend Developer in Islamabad, working with React, Tailwind CSS and JavaScript, open to internship and junior roles."
+        aria-label="Code snippet describing Roumaisa Rustam Abbasi: Frontend Developer in Islamabad, working with React, Tailwind CSS and JavaScript, open to internship and junior roles."
         initial={{ opacity: 0, y: 24 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, delay: 0.15, ease: [0.2, 0.8, 0.2, 1] }}
